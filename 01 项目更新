@@ -15,7 +15,6 @@
 		<outline text="Bitcoin Core releases" title="Bitcoin Core releases" description="" type="rss" version="RSS" htmlUrl="https://bitcoin.org/en/version-history" xmlUrl="https://bitcoin.org/en/rss/releases.rss"/>
 		<outline text="Celestia Blog" title="Celestia Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.celestia.org/" xmlUrl="https://blog.celestia.org/rss"/>
 		<outline text="ChainFeeds" title="ChainFeeds" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/chainfeeds.eth/" xmlUrl="http://mirror.xyz/chainfeeds.eth/feed/atom"/>
-		<outline text="Chainlink" title="Chainlink" description="" type="rss" version="RSS" htmlUrl="https://blog.chain.link/" xmlUrl="https://blog.chain.link/rss/"/>
 		<outline text="Compound - Medium" title="Compound - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/compound-finance?source=rss----22e4df2110f5---4" xmlUrl="https://medium.com/feed/compound-finance"/>
 		<outline text="ConsenSys" title="ConsenSys" description="" type="rss" version="RSS" htmlUrl="https://consensys.net/" xmlUrl="https://feeds.feedburner.com/ConsenSys/posts"/>
 		<outline text="ConsenSys Media - Medium" title="ConsenSys Media - Medium" description="" type="rss" version="RSS" htmlUrl="https://media.consensys.net?source=rss----3018c972aab8---4/" xmlUrl="https://media.consensys.net/feed"/>
@@ -25,16 +24,22 @@
 		<outline text="Ethereum Blog" title="Ethereum Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.ethereum.org/" xmlUrl="https://blog.ethereum.org/feed.xml"/>
 		<outline text="Filecoin" title="Filecoin" description="" type="rss" version="RSS" htmlUrl="https://filecoin.io/blog/feed/" xmlUrl="https://filecoin.io/blog/feed/index.xml"/>
 		<outline text="Hermez | Blog" title="Hermez | Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.hermez.io/" xmlUrl="https://blog.hermez.io/feed"/>
+		<outline text="OP Mirror" title="OP Mirror" description="" type="rss" version="RSS" htmlUrl="https://optimism.mirror.xyz/" xmlUrl="https://optimism.mirror.xyz/feed/atom"/>
 		<outline text="Illuvium on Medium" title="Illuvium on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@illuvium?source=rss-1c2a2f798ba2------2" xmlUrl="https://medium.com/feed/@illuvium"/>
 		<outline text="InstaDApp - Medium" title="InstaDApp - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/instadapp?source=rss----ec9ccaa9fe7c---4" xmlUrl="https://medium.com/feed/instadapp"/>
 		<outline text="LayerZero Official - Medium" title="LayerZero Official - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/layerzero-official?source=rss----86a3a7f3e9a7---4" xmlUrl="https://medium.com/feed/layerzero-official"/>
-		<outline text="Ledger" title="Ledger" description="" type="rss" version="RSS" htmlUrl="https://www.ledger.com/" xmlUrl="https://www.ledger.com/category/blog-posts/feed/"/>
+		<outline text="Ledger" title="Ledger" description="" type="rss" version="RSS" htmlUrl="https://www.ledger.com/" xmlUrl="https://www.ledger.com/category/blog-posts/feed"/>
 		<outline text="RabbitHole" title="RabbitHole" description="" type="rss" version="RSS" htmlUrl="https://rabbithole.mirror.xyz/" xmlUrl="https://rabbithole.mirror.xyz/feed/atom"/>
 		<outline text="Snapshot Labs" title="Snapshot Labs" description="" type="rss" version="RSS" htmlUrl="https://snapshot.mirror.xyz/" xmlUrl="https://snapshot.mirror.xyz/feed/atom"/>
 		<outline text="Sushi - Medium" title="Sushi - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/sushiswap-org?source=rss----253ae1eaeb9e---4" xmlUrl="https://medium.com/feed/sushiswap-org"/>
-		<outline text="Synthetix Blog" title="Synthetix Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.synthetix.io/" xmlUrl="https://blog.synthetix.io/rss/"/>
-		<outline text="The Optimism Collective" title="The Optimism Collective" description="" type="rss" version="RSS" htmlUrl="https://optimism.mirror.xyz/" xmlUrl="https://optimism.mirror.xyz/feed/atom"/>
 		<outline text="The Sandbox - Medium" title="The Sandbox - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/sandbox-game?source=rss----df97fb047c1e---4" xmlUrl="https://medium.com/feed/sandbox-game"/> 
+	        <outline text="Dapper Labs Medium" title="Dapper Labs Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/dapperlabs/gas-policy-update-for-dapper-ethereum-117a7474a423?source=rss-6544777e30d2------2" xmlUrl="https://medium.com/feed/@hellodapper"/>
+		<outline text="Gnosis Medium" title="Gnosis Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@gnosisPM/gnosis-year-in-review-2022-8ef87b6950c1?source=rss-e7281ad70ea------2" xmlUrl="https://medium.com/feed/@gnosisPM"/>
+		<outline text="Gnosis Safe" title="Gnosis Safe" description="" type="rss" version="RSS" htmlUrl="https://safe.mirror.xyz/" xmlUrl="https://safe.mirror.xyz/feed/atom"/>
+		<outline text="HOP" title="HOP" description="" type="rss" version="RSS" htmlUrl="https://hop.mirror.xyz/" xmlUrl="https://hop.mirror.xyz/feed/atom"/>
+		<outline text="IPFS Blog" title="IPFS Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.ipfs.tech/" xmlUrl="https://blog.ipfs.io/index.xml"/>
+		<outline text="Matter Labs Blog" title="Matter Labs Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.matter-labs.io/gm-zkevm-171b12a26b36?source=rss----bd3444e7f3b9---4" xmlUrl="https://blog.matter-labs.io/feed"/>
+		<outline text="StarkWare Medium" title="StarkWare Medium" description="" type="rss" version="RSS" htmlUrl="https://starkware.medium.com/scaling-ethereum-navigating-the-blockchain-trilemma-11d59c60c497?source=rss-373f5878a0c6------2" xmlUrl="https://starkware.medium.com/feed"/>
 	</outline>
   </body>
 </opml>
