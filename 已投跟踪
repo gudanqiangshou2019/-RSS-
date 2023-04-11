@@ -6,17 +6,22 @@
 	</head>
 <body>
 <outline text="08. Test" title="08. Test">
-		<outline text="ASTR Twitter" title="ASTR Twitter" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/AstarNetwork" xmlUrl="https://twitter.com/AstarNetwork"/>
-		<outline text="ASTR Medium" title="ASTR Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/astar-network?source=rss----482978dd8aa8---4" xmlUrl="https://medium.com/feed/astar-network"/>
+    <outline text="ASTR Twitter" title="ASTR Twitter" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/AstarNetwork" xmlUrl="https://twitter.com/AstarNetwork"/>
+    <outline text="ASTR Medium" title="ASTR Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/astar-network?source=rss----482978dd8aa8---4" xmlUrl="https://medium.com/feed/astar-network"/>
     <outline text="Blur Twitter" title="Blur Twitter" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/blur_io" xmlUrl="https://twitter.com/blur_io"/>
-		<outline text="Blur Mirror" title="Blur Mirror" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/blurdao.eth" xmlUrl="https://mirror.xyz/blurdao.eth/feed/atom"/>
+    <outline text="Blur Mirror" title="Blur Mirror" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/blurdao.eth" xmlUrl="https://mirror.xyz/blurdao.eth/feed/atom"/>
     <outline text="Arbitrum Twitter" title="Arbitrum Twitter" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/arbitrum" xmlUrl="https://twitter.com/arbitrum"/>
-		<outline text="Arbitrum Medium" title="Arbitrum Medium" description="" type="rss" version="RSS" htmlUrl="https://arbitrumfoundation.medium.com/arbitrum-the-next-phase-of-decentralization-e7f8b37b5226?source=rss-dea75b5f2379------2" xmlUrl="https://arbitrumfoundation.medium.com/feed"/>
+    <outline text="Arbitrum Medium" title="Arbitrum Medium" description="" type="rss" version="RSS" htmlUrl="https://arbitrumfoundation.medium.com/arbitrum-the-next-phase-of-decentralization-e7f8b37b5226?source=rss-dea75b5f2379------2" xmlUrl="https://arbitrumfoundation.medium.com/feed"/>
+    <outline text="Link Twitter" title="Link Twitter" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/chainlink" xmlUrl="https://twitter.com/chainlink"/>
     <outline text="Link Blog" title="Link Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.chain.link/" xmlUrl="https://blog.chain.link/rss/"/>
-		<outline text="SNX Blog" title="SNX Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.synthetix.io/" xmlUrl="https://blog.synthetix.io/rss/"/>
-    <outline text="Op Mirror" title="Op Mirror" description="" type="rss" version="RSS" htmlUrl="https://optimism.mirror.xyz/" xmlUrl="https://optimism.mirror.xyz/feed/atom"/>
-		<outline text="Strp Medium" title="Strp Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@strips-finance" xmlUrl="https://medium.com/feed/@strips-finance"/>
-		<outline text="STG Medium" title="STG Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/stargate-official" xmlUrl="https://medium.com/feed/stargate-official"/>
+    <outline text="SNX Twitter" title="SNX Twitter" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/synthetix_io" xmlUrl="https://twitter.com/synthetix_io"/>
+    <outline text="SNX Blog" title="SNX Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.synthetix.io/" xmlUrl="https://blog.synthetix.io/rss/"/>
+    <outline text="OP Twitter" title="OP Twitter" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/optimismFND" xmlUrl="https://twitter.com/optimismFND"/>
+    <outline text="OP Mirror" title="OP Mirror" description="" type="rss" version="RSS" htmlUrl="https://optimism.mirror.xyz/" xmlUrl="https://optimism.mirror.xyz/feed/atom"/>
+    <outline text="Strp Twitter" title="Strp Twitter" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/StripsFinance" xmlUrl="https://twitter.com/StripsFinance"/>
+    <outline text="Strp Medium" title="Strp Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@strips-finance" xmlUrl="https://medium.com/feed/@strips-finance"/>
+    <outline text="STG Twitter" title="STG Twitter" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/StargateFinance" xmlUrl="https://twitter.com/StargateFinance"/>
+    <outline text="STG Medium" title="STG Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/stargate-official" xmlUrl="https://medium.com/feed/stargate-official"/>
 	</outline>
 	</body>
 </opml>
