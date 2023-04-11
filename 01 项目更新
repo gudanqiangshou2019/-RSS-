@@ -6,15 +6,14 @@
 	</head>
 <body>
 	<outline text="01. Project Updates" title="01. Project Updates">
-		<outline text="1inch exchange on Medium" title="1inch exchange on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@1inch-exchange?source=rss-c4f4cadf8a31------2" xmlUrl="https://medium.com/feed/@1inch-exchange"/>
 		<outline text="Aave" title="Aave" description="" type="rss" version="RSS" htmlUrl="https://aave.mirror.xyz/" xmlUrl="https://aave.mirror.xyz/feed/atom"/>
 		<outline text="Aave Blog - Medium" title="Aave Blog - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/aave?source=rss----b4ab878e405---4" xmlUrl="https://medium.com/feed/aave"/>
-		<outline text="ASTR Twitter" title="ASTR Twitter" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/AstarNetwork" xmlUrl="https://twitter.com/AstarNetwork"/>
-		<outline text="ASTR Medium" title="ASTR Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/astar-network?source=rss----482978dd8aa8---4" xmlUrl="https://medium.com/feed/astar-network"/>
+		<outline text="1inch exchange on Medium" title="1inch exchange on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@1inch-exchange?source=rss-c4f4cadf8a31------2" xmlUrl="https://medium.com/feed/@1inch-exchange"/>
 		<outline text="Avalanche on Medium" title="Avalanche on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@avalancheavax?source=rss-f7c9f4ea738f------2" xmlUrl="https://medium.com/feed/@avalancheavax"/>
 		<outline text="Aztec Network - Medium" title="Aztec Network - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/aztec-protocol?source=rss----f75d14c7bf64---4" xmlUrl="https://medium.com/feed/aztec-protocol"/>
+		<outline text="Link Blog" title="Link Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.chain.link/" xmlUrl="https://blog.chain.link/rss/"/>
 		<outline text="Bitcoin Core releases" title="Bitcoin Core releases" description="" type="rss" version="RSS" htmlUrl="https://bitcoin.org/en/version-history" xmlUrl="https://bitcoin.org/en/rss/releases.rss"/>
-		<outline text="Celestia Blog" title="Celestia Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.celestia.org/" xmlUrl="https://blog.celestia.org/rss/"/>
+		<outline text="Celestia Blog" title="Celestia Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.celestia.org/" xmlUrl="https://blog.celestia.org/rss"/>
 		<outline text="ChainFeeds" title="ChainFeeds" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/chainfeeds.eth/" xmlUrl="http://mirror.xyz/chainfeeds.eth/feed/atom"/>
 		<outline text="Chainlink" title="Chainlink" description="" type="rss" version="RSS" htmlUrl="https://blog.chain.link/" xmlUrl="https://blog.chain.link/rss/"/>
 		<outline text="Compound - Medium" title="Compound - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/compound-finance?source=rss----22e4df2110f5---4" xmlUrl="https://medium.com/feed/compound-finance"/>
@@ -35,10 +34,7 @@
 		<outline text="Sushi - Medium" title="Sushi - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/sushiswap-org?source=rss----253ae1eaeb9e---4" xmlUrl="https://medium.com/feed/sushiswap-org"/>
 		<outline text="Synthetix Blog" title="Synthetix Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.synthetix.io/" xmlUrl="https://blog.synthetix.io/rss/"/>
 		<outline text="The Optimism Collective" title="The Optimism Collective" description="" type="rss" version="RSS" htmlUrl="https://optimism.mirror.xyz/" xmlUrl="https://optimism.mirror.xyz/feed/atom"/>
-		<outline text="The Sandbox - Medium" title="The Sandbox - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/sandbox-game?source=rss----df97fb047c1e---4" xmlUrl="https://medium.com/feed/sandbox-game"/>
-		<outline text="UMA Project - Medium" title="UMA Project - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/uma-project?source=rss----e0a14dc9da94---4" xmlUrl="https://medium.com/feed/uma-project"/>
-		<outline text="Anchor Protocol on Medium" title="Anchor Protocol on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@anchor-protocol?source=rss-f25c4bc72765------2" xmlUrl="https://medium.com/feed/@anchor-protocol"/>	
-	        <outline text="@BiteyeCN" title="@BiteyeCN" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/BiteyeCN" xmlUrl="https://twitter.com/BiteyeCN"/>
+		<outline text="The Sandbox - Medium" title="The Sandbox - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/sandbox-game?source=rss----df97fb047c1e---4" xmlUrl="https://medium.com/feed/sandbox-game"/> 
 	</outline>
   </body>
 </opml>
