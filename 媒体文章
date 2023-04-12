@@ -9,8 +9,7 @@
 		<outline text="BlockTempo (Chinese)" title="BlockTempo (Chinese)" description="" type="rss" version="RSS" htmlUrl="https://www.blocktempo.com/" xmlUrl="https://www.blocktempo.com/feed/"/>
 		<outline text="ChainFeeds Selected (Chinese)" title="ChainFeeds Selected (Chinese)" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.chainfeeds.xyz/rss"/>
 		<outline text="Crunchbase Crypto" title="Crunchbase Crypto" description="" type="rss" version="RSS" htmlUrl="https://news.crunchbase.com/" xmlUrl="https://news.crunchbase.com/sections/crypto/feed/"/>
-		<outline text="Messari Crypto News Feed" title="Messari Crypto News Feed" description="" type="rss" version="RSS" htmlUrl="https://messari.io/" xmlUrl="https://messari.io/rss"/>
-		<outline text="TechFlow (Chinese)" title="TechFlow (Chinese)" description="" type="rss" version="RSS" htmlUrl="https://techflowpost.substack.com/" xmlUrl="https://techflowpost.substack.com/feed"/>		
+		<outline text="Messari Crypto News Feed" title="Messari Crypto News Feed" description="" type="rss" version="RSS" htmlUrl="https://messari.io/" xmlUrl="https://messari.io/rss"/>		
 		<outline text="TechFlow (Chinese)" title="TechFlow (Chinese)" description="" type="rss" version="RSS" htmlUrl="https://techflowpost.mirror.xyz/" xmlUrl="https://techflowpost.mirror.xyz/feed/atom"/>
 	  <outline text="蓝狐笔记" title="蓝狐笔记" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0xC36051E2bb2128c18B6E16e5013355A7D950b3F5" xmlUrl="https://mirror.xyz/0xC36051E2bb2128c18B6E16e5013355A7D950b3F5/feed/atom"/>
   </outline>
